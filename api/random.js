@@ -50,7 +50,9 @@ export default function handler(req, res) {
     "Stereo Madness",
     "nano love",
     "FACT",
-    "あくあ色ぱれっと"
+    "あくあ色ぱれっと",
+    "I'M A GURKEY TURKEY",
+    "Granny's House"
   ];
 
   const artists = [
@@ -104,7 +106,9 @@ export default function handler(req, res) {
     "Taylor Swift",
     "Eminem",
     "Nicki Manaj",
-    "Justin Bieber"
+    "Justin Bieber",
+    "FGTeeV",
+    "Lanky Box"
   ];
 
   const randomSong = songs[Math.floor(Math.random() * songs.length)];
